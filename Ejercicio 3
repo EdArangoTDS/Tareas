@@ -1,0 +1,77 @@
+
+3- Elija un sujeto cualquiera, un trabajador, un estudiante, una mascota, etc. Luego complete los siguientes incisos: Un Estudiante de básicos
+
+	•	Para el sujeto que pensó enliste todos los enunciados simples que considere verdaderos sobre el sujeto
+	o	Tiene un numero de clave
+	o	Tiene un numero de carnet
+	o	Usa cuadernos
+	o	Usa lapiceros
+	o	Su computadora es una herramienta importante
+	o	Recibe cursos
+	o	Tiene un horario cursos
+	o	Tiene horario de entrada
+	o	Tiene horario de refacción
+	o	Usa uniforme
+	o	Tiene exámenes de los cursos
+
+
+
+•	Enliste todos los enunciados simples que considere falsos del sujeto,
+	o	No hace tareas
+	o	No sabe sobre matemática
+	o	Siempre llega tarde
+	o	Llega en carro propio 
+	o	Da clases
+	o	No tiene maestros
+	o	No tiene compañeros de estudio
+	o	Solo tiene un curso en día
+	o	Tiene experiencia laboral 
+
+
+
+•	Finalmente, haciendo uso de las proposiciones lógicas y los enunciados de los
+dos puntos anteriores, cree 10 enunciados nuevos, indique que proposiciones
+usó y el valor de verdad resultante, use mínimo 1 proposición y máximo 3 en cada enunciado.
+
+1.	El estudiante usa lapiceros y cuadernos
+	o	Proposiciones usadas: conjunción
+	o	Valor resultante: verdadero
+
+2.	El estudiante no usa uniforme
+	o	Proposiciones usadas: negación 
+	o	Valor resultante: falso
+
+3.	El estudiante da clases o recibe cursos
+	o	Proposiciones usadas: disyunción  
+	o	Valor resultante: verdadero
+
+
+4.	El estudiante no tiene experiencia laboral
+	o	Proposiciones usadas: negación 
+	o	Valor resultante: falso
+
+
+5.	El estudiante solo tiene un curso al dia y no hace tareas
+	o	Proposiciones usadas: conjunción
+	o	Valor resultante: falso
+
+6.	Si el estudiante recibe cursos entonces tiene exámenes de los cursos.
+	o	Proposiciones usadas: condicional 
+	o	Valor resultante: verdadero
+
+7.	El estudiante no tiene horario de entrada y siempre llega tarde.
+	o	Proposiciones usadas: negación y conjunción 
+	o	Valor resultante: falso
+
+
+8.	El estudiante no tiene un numero de carnet
+	o	Proposiciones usadas: negación 
+	o	Valor resultante: falso
+
+9.	El estudiante tiene horario de refacción y no sabe sobre matemática.
+	o	Proposiciones usadas: conjunción  
+	o	Valor resultante: falso
+
+10.	Si el estudiante no tiene compañeros de estudio entonces no tiene maestros.
+	o	Proposiciones usadas: condicional 
+	o	Valor resultante: verdadero

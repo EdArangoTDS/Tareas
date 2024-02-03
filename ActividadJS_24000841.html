@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2024 by anonymous (http://jsbin.com/fecaweceba/1/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+
+<script id="jsbin-javascript">
+alert("Sistema para ver tu signo zodiacal")
+
+var dia = prompt("Ingresa tu dia de nacimiento.");
+var diaInt = parseInt(dia)
+//noprotect
+while (diaInt < 1 || diaInt > 31) {
+   alert("El dia debe ser del 1 al 31")
+   var dia = prompt("Ingresa tu dia de nacimiento.");
+   var diaInt = parseInt(dia)
+ } 
+
+var mes = prompt("Ingresa tu mes de nacimiento.");
+var mesInt = parseInt(mes)
+//noprotect
+while (mesInt < 1 || mesInt > 12)
+ {
+   alert("El mes debe ser del 1 al 12")
+   var mes = prompt("Ingresa tu mes de nacimiento.");
+   var mesInt = parseInt(mes)
+ }
+  
+
+//alert("tu dia y mes de nacimiento son: dia: " + dia + ", mes: " + mes);
+
+if((dia >= 21 && mes == 3) || ((dia <= 20 && mes == 4)))
+	alert("Tu signo zodiacal es: Aries");
+else if((dia >= 21 && mes == 4) || ((dia <= 20 && mes == 5)))
+	alert("Tu signo zodiacal es: Tauro");
+else if((dia >= 21 && mes == 5) || ((dia <= 20 && mes == 6)))
+	alert("Tu signo zodiacal es: Géminis");
+else if((dia >= 21 && mes == 6) || ((dia <= 22 && mes == 7)))
+	alert("Tu signo zodiacal es: Cáncer");
+else if((dia >= 23 && mes == 7) || ((dia <= 23 && mes == 8)))
+	alert("Tu signo zodiacal es: Leo")
+else if((dia >= 24 && mes == 8) || ((dia <= 22 && mes == 9)))
+	alert("Tu signo zodiacal es: Virgo")
+else if((dia >= 23 && mes == 9) || ((dia <= 23 && mes == 10)))
+	alert("Tu signo zodiacal es: Libra")
+else if((dia >= 24 && mes == 10) || ((dia <= 22 && mes == 11)))
+	alert("Tu signo zodiacal es: Escorpio")
+else if((dia >= 23 && mes == 11) || ((dia <= 21 && mes == 12)))
+	alert("Tu signo zodiacal es: Sagitario")
+else if((dia >= 22 && mes == 12) || ((dia <= 20 && mes == 1)))
+	alert("Tu signo zodiacal es: Capricornio")
+else if((dia >= 21 && mes == 1) || ((dia <= 19 && mes == 2)))
+	alert("Tu signo zodiacal es: Acuario")
+else if((dia >= 20 && mes == 2) || ((dia <= 20 && mes == 3)))
+	alert("Tu signo zodiacal es: Piscis")
+</script>
+</body>
+</html>
